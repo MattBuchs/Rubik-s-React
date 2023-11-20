@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Rubik's cube 3x3",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In est qui veritatis sint, ipsam sapiente voluptatum id asperiores excepturi illo.",
+        "price": "5.99$"
+    },
+    {
+        "id": "2",
+        "name": "Rubik's cube 4x4",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In est qui veritatis sint, ipsam sapiente voluptatum id asperiores excepturi illo.",
+        "price": "15.99$"
+    },
+    {
+        "id": "3",
+        "name": "Rubik's cube 5x5",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In est qui veritatis sint, ipsam sapiente voluptatum id asperiores excepturi illo.",
+        "price": "18.99$"
+    },
+    {
+        "id": "4",
+        "name": "Rubik's cube 6x6",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In est qui veritatis sint, ipsam sapiente voluptatum id asperiores excepturi illo.",
+        "price": "32.99$"
+    },
+    {
+        "id": "5",
+        "name": "Square-1",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In est qui veritatis sint, ipsam sapiente voluptatum id asperiores excepturi illo.",
+        "price": "13.99$"
+    },
+    {
+        "id": "6",
+        "name": "Pyraminx",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In est qui veritatis sint, ipsam sapiente voluptatum id asperiores excepturi illo.",
+        "price": "8.99$"
+    },
+    {
+        "id": "7",
+        "name": "Skewb",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In est qui veritatis sint, ipsam sapiente voluptatum id asperiores excepturi illo.",
+        "price": "14.99$"
+    },
+    {
+        "id": "8",
+        "name": "megaminx",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In est qui veritatis sint, ipsam sapiente voluptatum id asperiores excepturi illo.",
+        "price": "55.99$"
+    }
+]
